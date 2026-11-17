@@ -1,15 +1,13 @@
 # Hi, I'm James 👋
 
-Cybersecurity student at **Augusta University** and Junior SOC Analyst at an MSP.
+Cybersecurity student at **Augusta University** and IT Support Technician at an MSP.
 I like learning how attacks work by building labs and breaking them.
 
-- 🥉 3rd place, CPTC Southeast Regional (2026)
 - 🔐 CompTIA Security+ · studying for CySA+
-- 🧪 Currently building: Active Directory home lab → SOC lab (pfSense + Splunk)
+- 🧪 Currently building: interesting cyber and IT projects
 - 🌍 Interests: red teaming, incident response, cloud security, DFIR
 
-### Tools I use
-Kali Linux · Active Directory · Microsoft 365 · Wireshark · Burp Suite · Splunk · Python · PowerShell
+### More about me
+🌐 [jamesdooley.dev](https://jamesdooley.dev) · 📄 [Resume](https://jamesdooley.dev/resume) · 🛠️ [Projects](https://jamesdooley.dev/projects) · 📝 [Writeups](https://jamesdooley.dev/writeups)
 
-### Find me
-[LinkedIn](https://www.linkedin.com/in/YOUR-NEW-URL) · jamesdooley.dev (coming soon)
+📫 helloworld@jamesdooley.dev · [LinkedIn](https://www.linkedin.com/in/YOUR-NEW-URL) · [Contact](https://jamesdooley.dev/contact)
